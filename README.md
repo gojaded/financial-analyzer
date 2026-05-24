@@ -2,6 +2,8 @@
 
 A personal finance tracker with both a browser-based GUI (Streamlit) and a terminal CLI (Rich).
 
+![Dashboard](assets/screenshot.png)
+
 ## Features
 
 - **Income & expense tracking** — log transactions with categories and dates
