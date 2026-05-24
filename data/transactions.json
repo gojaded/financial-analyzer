@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "type": "income",
+    "amount": 2000.0,
+    "category": "Salary",
+    "description": "jeff's entergy income",
+    "date": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "type": "expense",
+    "amount": 3000.0,
+    "category": "Housing",
+    "description": "",
+    "date": "2026-05-23"
+  },
+  {
+    "id": 3,
+    "type": "expense",
+    "amount": 5000.0,
+    "category": "Housing",
+    "description": "",
+    "date": "2026-05-23"
+  },
+  {
+    "id": 5,
+    "type": "expense",
+    "amount": 142.37,
+    "category": "Food",
+    "description": "WHOLE FOODS MARKET #0472",
+    "date": "2026-05-02"
+  },
+  {
+    "id": 6,
+    "type": "expense",
+    "amount": 15.49,
+    "category": "Entertainment",
+    "description": "NETFLIX SUBSCRIPTION",
+    "date": "2026-05-03"
+  },
+  {
+    "id": 7,
+    "type": "income",
+    "amount": 3200.0,
+    "category": "Salary",
+    "description": "DIRECT DEPOSIT ACME CORP",
+    "date": "2026-05-05"
+  },
+  {
+    "id": 8,
+    "type": "expense",
+    "amount": 58.21,
+    "category": "Transport",
+    "description": "SHELL GAS STATION #1193",
+    "date": "2026-05-07"
+  },
+  {
+    "id": 9,
+    "type": "expense",
+    "amount": 23.14,
+    "category": "Healthcare",
+    "description": "CVS PHARMACY 4501",
+    "date": "2026-05-09"
+  },
+  {
+    "id": 10,
+    "type": "expense",
+    "amount": 89.99,
+    "category": "Other",
+    "description": "AMAZON MARKETPLACE",
+    "date": "2026-05-11"
+  },
+  {
+    "id": 11,
+    "type": "expense",
+    "amount": 24.99,
+    "category": "Healthcare",
+    "description": "PLANET FITNESS MONTHLY",
+    "date": "2026-05-12"
+  },
+  {
+    "id": 12,
+    "type": "expense",
+    "amount": 18.75,
+    "category": "Transport",
+    "description": "UBER TRIP",
+    "date": "2026-05-14"
+  },
+  {
+    "id": 13,
+    "type": "income",
+    "amount": 850.0,
+    "category": "Freelance",
+    "description": "FREELANCE PAYMENT - CLIENT A",
+    "date": "2026-05-15"
+  },
+  {
+    "id": 14,
+    "type": "expense",
+    "amount": 13.45,
+    "category": "Food",
+    "description": "CHIPOTLE MEXICAN GRILL",
+    "date": "2026-05-17"
+  },
+  {
+    "id": 15,
+    "type": "expense",
+    "amount": 112.88,
+    "category": "Utilities",
+    "description": "ELECTRIC BILL - CENTERPOINT",
+    "date": "2026-05-19"
+  },
+  {
+    "id": 16,
+    "type": "expense",
+    "amount": 67.32,
+    "category": "Clothing",
+    "description": "TARGET STORE #0284",
+    "date": "2026-05-21"
+  },
+  {
+    "id": 17,
+    "type": "expense",
+    "amount": 11.99,
+    "category": "Entertainment",
+    "description": "SPOTIFY PREMIUM",
+    "date": "2026-05-22"
+  }
+]
