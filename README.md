@@ -13,7 +13,10 @@ A terminal-based personal finance tracker built with Python and Rich.
 ## Requirements
 
 - Python 3.10+
-- Dependencies listed in `requirements.txt`
+- [pandas](https://pandas.pydata.org/) — data manipulation for reports
+- [matplotlib](https://matplotlib.org/) — spending and income/expense charts
+- [rich](https://github.com/Textualize/rich) — terminal UI, tables, and prompts
+- [pdfplumber](https://github.com/jsvine/pdfplumber) — PDF text extraction for statement import
 
 ## Installation
 
