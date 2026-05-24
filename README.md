@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-A terminal-based personal finance tracker built with Python and Rich.
+A personal finance tracker with both a browser-based GUI (Streamlit) and a terminal CLI (Rich).
 
 ## Features
 
@@ -17,6 +17,7 @@ A terminal-based personal finance tracker built with Python and Rich.
 - [matplotlib](https://matplotlib.org/) — spending and income/expense charts
 - [rich](https://github.com/Textualize/rich) — terminal UI, tables, and prompts
 - [pdfplumber](https://github.com/jsvine/pdfplumber) — PDF text extraction for statement import
+- [streamlit](https://streamlit.io/) — browser-based GUI
 
 ## Installation
 
@@ -26,6 +27,16 @@ pip install -r requirements.txt
 
 ## Usage
 
+### GUI (browser)
+
+```bash
+python -m streamlit run app.py
+```
+
+Opens automatically at `http://localhost:8501`. All features are available through the sidebar: Dashboard, Transactions, Budgets, Goals, and Import PDF.
+
+### CLI (terminal)
+
 ```bash
 python main.py
 ```
@@ -34,6 +45,8 @@ python main.py
 > ```bash
 > python -X utf8 main.py
 > ```
+
+Both interfaces share the same data files, so transactions added in one are immediately visible in the other.
 
 ## PDF Import
 
